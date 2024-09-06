@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - tree
+  - Glass
+  - Sea
+  - Beach
+  - Volcano
+  - FieldObj
+  - FireGround
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - obj
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Tile
+    uniqueID: 233834671
+    locked: 0
+  - name: FieldObj
+    uniqueID: 1621753717
+    locked: 0
+  - name: Volcano
+    uniqueID: 3552367927
+    locked: 0
+  - name: Item
+    uniqueID: 4089507039
+    locked: 0
+  - name: Player
+    uniqueID: 1312985475
+    locked: 0
+  - name: StatusUI
+    uniqueID: 189973917
+    locked: 0
+  - name: FadeUI
+    uniqueID: 3191738117
+    locked: 0
